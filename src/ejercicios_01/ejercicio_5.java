@@ -1,6 +1,6 @@
 package ejercicios_01;
 
-public class ejercicio_05 {
+public class ejercicio_5 {
     static void main() {
         //Variables(colores)
         String rojo = "\033[31m";
